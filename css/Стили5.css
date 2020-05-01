@@ -16,6 +16,7 @@ a:hover{ background: royalblue; }
     height: 50px;/*высота менюшки*/  
     font-size: 15px; /*Размер шрифта*/ }
 .Meny{ margin: auto;
+     width: 60px}
 body{ background: rgb(98, 122, 194);
     background-image:url(img/фото.jpg);
     background-size: 100%;} 
