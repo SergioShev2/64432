@@ -15,7 +15,7 @@ ul{list-style: none;
     margin-top: 60px;/*отступ сверху от меню*/
     height: 50px;/*высота менюшки*/  
     font-size: 15px; /*Размер шрифта*/ }
-.Meny{ margin-left: 320px;/*Отступ менюшки слева*/
+.Meny{ margin: auto;
     width: 863px}
 body{ background: rgb(98, 122, 194);
     background-image:url(img/фото.jpg);
