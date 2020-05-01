@@ -15,7 +15,7 @@ a:hover{ background: royalblue; }
     margin-top: 60px;/*отступ сверху от меню*/
     height: 50px;/*высота менюшки*/  
     font-size: 15px; /*Размер шрифта*/ }
-.Meny{ margin-left: 550px;/*Отступ менюшки слева*/
+.Meny{ margin: auto;
     width: 429px}
 body{ background: rgb(98, 122, 194);
     background-image:url(img/фото.jpg);
