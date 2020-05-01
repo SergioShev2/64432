@@ -15,7 +15,7 @@ padding-left: 0px;
 margin-top: 60px;/*отступ сверху от меню*/
 height: 50px;/*высота менюшки*/  
 font-size: 15px; /*Размер шрифта*/ }
-.Meny{ margin-left: 410px;/*Отступ менюшки слева*/
+.Meny{margin: auto;
 width: 681px}
 body{ background: rgb(98, 122, 194);
 background-image:url(img/фото.jpg);
